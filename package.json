@@ -7,7 +7,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "test": "jest"
   },
   "devDependencies": {
     "@netlify/plugin-nextjs": "^1.0.2",
