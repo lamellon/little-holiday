@@ -11,7 +11,7 @@ function HomePage() {
           </div>
 
           <p className="mt-2 text-gray-500">
-            Search for holidays on for your kids requirements
+            A new way to book a holiday with your WANDER KIDS!
           </p>
         </div>
       </div>
